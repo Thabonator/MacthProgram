@@ -1,0 +1,13 @@
+C:\Users\7116\source\repos\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\7116\source\repos\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\7116\source\repos\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\7116\source\repos\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\7116\source\repos\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\7116\source\repos\New folder\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Users\7116\source\repos\New folder\demo\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
